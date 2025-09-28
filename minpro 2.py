@@ -106,9 +106,9 @@ def menu_karyawan():
     while True:
         tabel = PrettyTable()
         tabel.field_names = ["No.", "Menu Karyawan"]
-        tabel.add_row("1.", "Membuat Reservasi Kursi")
-        tabel.add_row("2.", "Melihat Reservasi Kursi")
-        tabel.add_row("3.", "Keluar")
+        tabel.add_row(["1.", "Membuat Reservasi Kursi"])
+        tabel.add_row(["2.", "Melihat Reservasi Kursi"])
+        tabel.add_row(["3.", "Keluar"])
         print(tabel)
 
         pilihan = input("Pilih menu (1-3): ")
@@ -124,7 +124,7 @@ def menu_karyawan():
 
 from getpass import getpass
 def login():
-    print("LOGIN")
+    print("\n ────୨ৎ──── LOGIN RESERVASI KURSI BIOSKOP ────୨ৎ────")
     username = input("Username: ")
     password = getpass("Password: ")
 
