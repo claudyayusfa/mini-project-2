@@ -51,6 +51,16 @@ Karyawan
 <img width="2228" height="453" alt="image" src="https://github.com/user-attachments/assets/c9a07f01-09b9-49bb-9216-a87a2aa2f551" />
 
 ## 7. Error Handling
+- Kursi Tidak Ada
+  <img width="2204" height="414" alt="image" src="https://github.com/user-attachments/assets/463cbe74-7281-4999-a674-5df64094eb4d" />
+
+- Login Salah
+  <img width="2156" height="207" alt="image" src="https://github.com/user-attachments/assets/84942498-81d4-4e9d-911d-14ead5a13c37" />
+
+- Menu Tidak Tersedia
+  <img width="2191" height="869" alt="image" src="https://github.com/user-attachments/assets/fe57acf0-891c-4495-ad93-6b29932c4f3f" />
+
+  
 
 
 
