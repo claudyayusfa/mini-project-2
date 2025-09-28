@@ -27,12 +27,16 @@ def create_reservasi():
     except ValueError:
         print("Input tidak valid!")
 
+from prettytable import PrettyTable
 def read_reservasi():
     try:
         if reservasi_kursi:
-            print("Daftar Reservasi:")
+            tabel = PrettyTable()
+            tabel.field_names = ["Kursi", "Nama Pemesan"]
+            
             for kursi, nama in reservasi_kursi.items():
-                print(f"{kursi}: {nama}")
+                tabel.add_row([kursi, nama])
+            print(tabel)
         else:
             print("Belum ada reservasi")
     except ValueError:
@@ -74,12 +78,14 @@ def delete_reservasi():
 
 def menu_manager():
     while True:
-        print("MENU MANAGER")
-        print("1. Membuat Reservasi Kursi")
-        print("2. Melihat Reservasi Kursi")
-        print("3. Mengubah Rereservasi Kursi")
-        print("4. Menghapus Reservasi Kursi")
-        print("5. keluar")
+        tabel = PrettyTable()
+        tabel.field_names = ["No.", "Menu Manager"]
+        tabel.add_row(["1.", "Membuat Reservasi Kursi"])
+        tabel.add_row(["2.", "Melihat Reservasi Kursi"])
+        tabel.add_row(["3.", "Mengubah Rereservasi Kursi"])
+        tabel.add_row(["4.", "Menghapus Reservasi Kursi"])
+        tabel.add_row(["5.", "keluar"])
+        print(tabel)
 
         pilihan = input("Pilih menu (1-5): ")
         if pilihan == "1":
@@ -98,10 +104,12 @@ def menu_manager():
 
 def menu_karyawan():
     while True:
-        print("MENU KARYAWAN")
-        print("1. Membuat Reservasi Kursi")
-        print("2. Melihat Reservasi Kursi")
-        print("3. Keluar")
+        tabel = PrettyTable()
+        tabel.field_names = ["No.", "Menu Karyawan"]
+        tabel.add_row("1.", "Membuat Reservasi Kursi")
+        tabel.add_row("2.", "Melihat Reservasi Kursi")
+        tabel.add_row("3.", "Keluar")
+        print(tabel)
 
         pilihan = input("Pilih menu (1-3): ")
         if pilihan == "1":
