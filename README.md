@@ -4,8 +4,7 @@
 **Nama:** Claudya Yusfa Ariyani  
 **NIM:** 2509116043  
 
-## Deskripsi Program
-Program ini adalah sistem **reservasi kursi bioskop sederhana** menggunakan Python.  
+## Deskripsi
 Fitur utama:
 - Login dengan role Manager dan Karyawan.  
 - Manager dapat melakukan CRUD (Create, Read, Update, Delete) reservasi.  
