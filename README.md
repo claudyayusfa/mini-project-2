@@ -15,9 +15,17 @@ Fitur utama:
 
 # Dokumentasi Screenshot Output
 
-## 1. Login Berhasil (Manager)
+## 1. Login Berhasil dan Tampilan Menu Manager
 <img width="2223" height="515" alt="image" src="https://github.com/user-attachments/assets/3d85877f-06f4-4fb3-91ec-a89753cd8ebe" />
 
-## 2. Login Berhasil (Karyawan)
-<img width="2187" height="411" alt="image" src="https://github.com/user-attachments/assets/d16d8779-8f78-4910-bd82-9bcbc1f676bb" />
+## 2. Login Berhasil dan Tampilan Menu Karyawan
+<img width="2181" height="423" alt="image" src="https://github.com/user-attachments/assets/bcde1d20-ad6f-42cd-a00d-d6d46f99885d" />
+
+## 3. Create Reservasi
+### Manager
+<img width="2182" height="620" alt="image" src="https://github.com/user-attachments/assets/4d02af15-f26a-4750-aa52-64a9bc1f5f10" />
+
+## 4. 
+
+
 
