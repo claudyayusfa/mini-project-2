@@ -1,6 +1,6 @@
 # Mini Project 2
 
-# Sistem Reservasi Kursi Bioskop  
+# Sistem Reservasi Kursi Bioskop˙✧˖°🍿 ༘ ⋆｡˚
 **Nama:** Claudya Yusfa Ariyani  
 **NIM:** 2509116043  
 
@@ -18,7 +18,7 @@ Fitur utama:
 ## 1. Login Berhasil
 ### Manager
 <img width="2223" height="515" alt="image" src="https://github.com/user-attachments/assets/3d85877f-06f4-4fb3-91ec-a89753cd8ebe" />
-### Karyawan
+#### Karyawan
 <img width="2181" height="423" alt="image" src="https://github.com/user-attachments/assets/bcde1d20-ad6f-42cd-a00d-d6d46f99885d" />
 
 ## 2. Create Reservasi
