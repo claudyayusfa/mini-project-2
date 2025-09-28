@@ -11,5 +11,4 @@ Fitur utama:
 - Karyawan hanya dapat membuat dan melihat reservasi.  
 
 ## Flowchart
-<img width="1656" height="1202" alt="MinPro 2 drawio" src="https://github.com/user-attachments/assets/dfcd9d2c-bbac-4d8a-8916-f515aa6d1c50" />
-
+<img width="2551" height="2200" alt="MinPro 2 drawio" src="https://github.com/user-attachments/assets/e271aa9a-1f20-4ee4-9f3d-73dc1513cfc7" />
