@@ -16,10 +16,11 @@ Fitur utama:
 # Dokumentasi Screenshot Output
 
 ## 1. Login Berhasil
-**Manager**
+- **Manager**
 <img width="2223" height="515" alt="image" src="https://github.com/user-attachments/assets/3d85877f-06f4-4fb3-91ec-a89753cd8ebe" />
 Penjelasan: Masukkan Username "Manager" dan Password "135". Huruf kapital, huruf kecil, dan angka diperhatikan dengan benar agar bisa *login* sebagai Manager
-Karyawan
+
+- **Karyawan**
 <img width="2181" height="423" alt="image" src="https://github.com/user-attachments/assets/bcde1d20-ad6f-42cd-a00d-d6d46f99885d" />
 Penjelasan: Masukkan Username "Karyawan" dan Password "246". Huruf kapital, huruf kecil, dan angka diperhatikan dengan benar agar bisa *login* sebagai Karyawan
 
