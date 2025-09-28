@@ -11,7 +11,7 @@ Fitur utama:
 - Karyawan hanya dapat membuat dan melihat reservasi.  
 
 # Flowchart
-  <img width="2551" height="2200" alt="MinPro 2 drawio" src="https://github.com/user-attachments/assets/e271aa9a-1f20-4ee4-9f3d-73dc1513cfc7" />
+<img width="1656" height="1202" alt="MiniProject 2 drawio" src="https://github.com/user-attachments/assets/f3157b33-46f3-4abf-bdde-3e42cd416039" />
 
 # Dokumentasi Screenshot Output
 
@@ -33,7 +33,6 @@ Saat pilih Menu, pilih Menu No. 1 yaitu Membuat Reservasi Kursi. Lalu akan menam
 <img width="2221" height="416" alt="image" src="https://github.com/user-attachments/assets/21ecbb2a-59ab-4fa1-9583-fc45a1290927" />
 Saat pilih Menu, pilih Menu No. 1 yaitu Membuat Reservasi Kursi. Lalu akan menampilkan kursi yang tersedia. Setelah itu, masukkan nama pemesan dan pilih kursi yang tersedia. Dan pemesan berhasil memesan kursi yang tersedia
 
-
 ## 3. Read Reservasi
 - **Manager**
 <img width="2201" height="514" alt="image" src="https://github.com/user-attachments/assets/01de1fa0-38d2-4de7-bd70-7c625c3dd577" />
@@ -52,7 +51,6 @@ Pilih Menu 3, yaitu Mengubah Reservasi Kursi. Lalu akan menampilkan Tabel berisi
 - **Manager**
 <img width="2208" height="586" alt="image" src="https://github.com/user-attachments/assets/da05378a-089a-47da-94cf-da3feaad2bf4" />
 Pilih Menu 4, yaitu Menghapus Reservasi Kursi. Lalu akan muncul Tabel berisi Kursi dan Nama Pemesan. Masukkan kursi yang di dalam Tabel, lalu reservasi milik pemesan berhasil dihapus
-
 
 ## 6. Keluar Program
 - **Manager**
@@ -75,8 +73,3 @@ Pilih Menu 5, yaitu Keluar. Lalu akan Logout sebagai Karyawan. Jika ingin Login 
 - Menu Tidak Tersedia
   <img width="2191" height="869" alt="image" src="https://github.com/user-attachments/assets/fe57acf0-891c-4495-ad93-6b29932c4f3f" />
   Saat memilih Menu Manager atau Menu Karyawan, jika kita mengetik angka Menu yang tidak ada di program, program akan menampilkan teks "Menu tidak tersedia!" dan program akan kembali menampilkan Menu yang tersedia
-
-  
-
-
-
