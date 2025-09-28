@@ -25,7 +25,10 @@ Fitur utama:
 ### Manager
 <img width="2182" height="620" alt="image" src="https://github.com/user-attachments/assets/4d02af15-f26a-4750-aa52-64a9bc1f5f10" />
 
-## 4. 
+### Karyawan
+
+## 4. Read Reservasi
+### Manager
 
 
 
